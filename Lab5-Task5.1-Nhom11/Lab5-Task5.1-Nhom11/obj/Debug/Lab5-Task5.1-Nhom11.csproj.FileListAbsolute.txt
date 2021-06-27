@@ -1,0 +1,10 @@
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\bin\Debug\Lab5-Task5.1-Nhom11.exe.config
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\bin\Debug\Lab5-Task5.1-Nhom11.exe
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\bin\Debug\Lab5-Task5.1-Nhom11.pdb
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5-Task5.1-Nhom11.csproj.AssemblyReference.cache
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5_Task5._1_Nhom11.CalculateHash.resources
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5_Task5._1_Nhom11.Properties.Resources.resources
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5-Task5.1-Nhom11.csproj.GenerateResource.cache
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5-Task5.1-Nhom11.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5-Task5.1-Nhom11.exe
+D:\Tài liệu\Năm 2\Cryptophy\Lab\Lab5\Lab5-Task5.1-Nhom11\Lab5-Task5.1-Nhom11\obj\Debug\Lab5-Task5.1-Nhom11.pdb
